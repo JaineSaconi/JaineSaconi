@@ -1,4 +1,4 @@
-# 👋 Hi!  My name is Jaine, welcolme!
+# 👋 Hi!  My name is Jaine, welcome!
 
 - 😄 Pronoun: she/her
 - 📍 Location: Brazil 
