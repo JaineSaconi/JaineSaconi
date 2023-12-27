@@ -2,8 +2,7 @@
 
 - 😄 Pronoun: she/her
 - 📍 Location: Brazil 
-- 🎂 Age: 25 
-- 💻 Profession: Software Engineer II 
+- 💻 Profession: Software Engineer 
 
 
 ## How to contact me
